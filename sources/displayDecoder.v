@@ -1,5 +1,6 @@
 `timescale 1ns / 1ps
 /*
+*** Standard Display Decoder used in class
 *** ELEC 3500 Lab 9 --Alarm Clock--
 *** Caleb Gryfe && Chantel Lepage
 *** Code Submission Date: 03/12/18
